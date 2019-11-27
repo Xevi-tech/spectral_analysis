@@ -1,3 +1,2 @@
 # spectral_analysis
-R
-Analysis of spectral data using partial least squares regression
+R analysis of spectral data using partial least squares regression
